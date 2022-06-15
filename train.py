@@ -58,7 +58,7 @@ print(device_lib.list_local_devices()) # list of DeviceAttributes
 # df = pd.DataFrame([data_array])
 # print(df.head())
 
-df = pd.read_csv('dataset/true_labels.csv')
+df = pd.read_csv('true_labels.csv')
 # print(df.info())
 i=0
 image_nums = ['image_' + str(i) for i in range(1,801)] #y1,y2,x1,x2
