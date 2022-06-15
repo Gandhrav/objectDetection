@@ -1,0 +1,6 @@
+myModel.h5
+dataset/
+objectenv/
+wandb/
+configs_and_init_/
+output/
